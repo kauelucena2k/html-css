@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <link rel="shortcut icon" href="favicon-zoro.ico" type="image/x-icon">
+    <title>Link Personalizado</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        a {
+            font-weight: bold;
+            text-decoration: none;
+            color: red;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .especial:hover {
+            color: white;
+            background-color: black;
+            text-decoration: none;
+        }
+        .especial::before {
+            content: '>';
+            font-weight: lighter;
+        }
+        .especial::after {
+            content: '<';
+            font-weight: lighter;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Personalizando um Link</h1>
+    
+    <p>
+        Para aprender HTML5 e CSS3, acesse o <a href="https://gustavoguanabara.github.io" target="_blank"> GitHub do Guanaraba.</a>
+    </p>
+    <p> Se quiser conhecer mais sobre os padrões, visite o site do <a href="https://www.w3c.br" target="_blank"> Escritorio do W3C no Brasil </a> </p>
+    <p>Para acompanar os cursos, acesse o <a href="https://www.youtube.com/cursoemvideo" target="_blank"> <spam class="especial">Canal do CursoemVideo</spam></a></p>
+</body>
+</html>
