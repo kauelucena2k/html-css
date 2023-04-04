@@ -13,6 +13,7 @@
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex006/" target="_blank">Executar Exercicio 006</a></li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex007/" target="_blank">Executar Exercicio 007</a></li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex008/" target="_blank">Executar Exercicio 008</a></li>
+<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex008b/" target="_blank">Executar Exercicio 008b</a></li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex009/" target="_blank">Executar Exercicio 009</a></li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex010/" target="_blank">Executar Exercicio 010</a></li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex011/" target="_blank">Executar Exercicio 011</a></li>
