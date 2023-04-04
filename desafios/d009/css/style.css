@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 150px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgba(233, 5, 5, 0.226);
+
+}
