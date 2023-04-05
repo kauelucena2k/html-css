@@ -27,7 +27,7 @@
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex019/" target="_blank">Executar Exercicio 019</a></li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex020/" target="_blank">Executar Exercicio 020</a></li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex021/" target="_blank">Executar Exercicio 021</a></li>
-<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex022/" target="_blank">Executar Exercicio 022</a></li>
+<li><a href="#" target="_blank">Executar Exercicio 022</a></li>
 </ul>
 <ul> <h1>
     <p> Desafios.</p>
