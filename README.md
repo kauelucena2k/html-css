@@ -43,5 +43,6 @@
 <li><a href="https://kauelucena2k.github.io/html-css/desafios/d009/" target="_blank">Executar o Desafio 009</a></li>
 <li><a href="https://kauelucena2k.github.io/html-css/desafios/d010/" target="_blank">Executar o Desafio 010</a></li>
 <li><a href="https://kauelucena2k.github.io/html-css/desafios/d011/" target="_blank">Executar o Desafio 011</a></li>
+<li><a href="https://kauelucena2k.github.io/html-css/desafios/d012/" target="_blank">Executar o Desafio 012</a></li>
 
 </ul>
