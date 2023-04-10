@@ -1,11 +1,16 @@
 @charset "UTF-8";
 
+* {
+    margin: 0px;
+    padding: 0px;
+    font-size: 1em;
+}
 
 body {
     background-color: black;
     color: white;
     text-align: center;
-    margin: 150px;
+   
 }
 
 a {
@@ -18,3 +23,5 @@ a:hover {
     color: rgba(233, 5, 5, 0.226);
 
 }
+
+
