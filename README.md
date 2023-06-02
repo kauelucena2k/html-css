@@ -5,7 +5,7 @@
 
 
 <ul>
-<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex001/" target="_blank"> Exercicio 001 - Nosso primeiro HTML5.</a></li> 
+<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex001/" target="_blank"> Exercicio 001</a> - Nosso primeiro HTML5.</li> 
 
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex002/" target="_blank"> Exercicio 002</a></li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex003/" target="_blank"> Exercicio 003</a></li>
