@@ -30,8 +30,8 @@
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex020/" target="_blank"> Exercicio 020</a> - CSS pseudo-class / CSS pseudo-element.</li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex021/" target="_blank"> Exercicio 021</a> - Modelo de Caixas / Shorthands Úteis / Grouping Tags Semânticas / Sombra nas Caixas / Vértices Arredondados / Bordas com Imagens.</li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex022/index" target="_blank"> Exercicio 022</a> - background-image / background-repeat / Background Position / background-size / background-attachment e shorthand / Centralização Vertical.</li>
-<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex023/index" target="_blank"> Exercicio 023</a> - </li>
-<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex024/index" target="_blank"> Exercicio 024</a> - </li>
+<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex023/index" target="_blank"> Exercicio 023</a> - Primeira Tabela em HTML / Alinhamento_de_conteúdos_em_tabelas / Caption e Escopo de títulos / Efeito Zebrado / Cabeçalho fixo para tabelas grandes / Mesclagem de Células.</li>
+<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex024/index" target="_blank"> Exercicio 024</a> - Nosso primeiro iframe / Configurações do iframe / Conteúdo local no iframe / Navegação no iframe.</li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex025/index" target="_blank"> Exercicio 025</a> - </li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex026/index" target="_blank"> Exercicio 026</a> - </li>
 </ul>
