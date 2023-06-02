@@ -16,9 +16,9 @@
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex008b/" target="_blank"> Exercicio 008b</a> - Códigos e citações / Outras Formatações .</li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex009/" target="_blank"> Exercicio 009</a> - Listas OL e UL / Listas mistas e de definição. </li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex010/" target="_blank"> Exercicio 010</a> - Links / Links Internos / Links para Download.</li>
-<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex011/" target="_blank"> Exercicio 011</a> - </li>
-<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex012/" target="_blank"> Exercicio 012</a> - </li>
-<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex013/" target="_blank"> Exercicio 013</a> - </li>
+<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex011/" target="_blank"> Exercicio 011</a> - Imagens Dinâmicas / Elemento Picture / Elemento Áudio</li>
+<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex012/" target="_blank"> Exercicio 012</a> - Elemento Vídeo / Hospedagem Local / Hospedagem Externa </li>
+<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex013/" target="_blank"> Exercicio 013</a> - Estilo CSS inline / Estilo CSS Internos / Estilos CSS Externos.</li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex014/" target="_blank"> Exercicio 014</a> - </li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex015/" target="_blank"> Exercicio 015</a> - </li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex016/" target="_blank"> Exercicio 016</a> - </li>
