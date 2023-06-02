@@ -1,7 +1,9 @@
-# Html-css
- Curso de HTML5 e CSS3, do curso em video.
 
- Estou aprendendo a criar site e agora vou gerenciar os meus repositórios!
+ ## Curso de HTML5 e CSS3, do curso em video.
+
+ <p>Estou aprendendo a criar site e agora vou gerenciar os meus repositórios! </p>
+
+ <h1>Html-css</h1>
 
 
 <ul>
@@ -27,14 +29,14 @@
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex019/" target="_blank"> Exercicio 019</a> - CSS id / CSS class.</li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex020/" target="_blank"> Exercicio 020</a> - CSS pseudo-class / CSS pseudo-element.</li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex021/" target="_blank"> Exercicio 021</a> - Modelo de Caixas / Shorthands Úteis / Grouping Tags Semânticas / Sombra nas Caixas / Vértices Arredondados / Bordas com Imagens.</li>
-<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex022/index" target="_blank"> Exercicio 022</a> - </li>
+<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex022/index" target="_blank"> Exercicio 022</a> - background-image / background-repeat / Background Position / background-size / background-attachment e shorthand / Centralização Vertical.</li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex023/index" target="_blank"> Exercicio 023</a> - </li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex024/index" target="_blank"> Exercicio 024</a> - </li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex025/index" target="_blank"> Exercicio 025</a> - </li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex026/index" target="_blank"> Exercicio 026</a> - </li>
 </ul>
 <h1>
-    <p> Desafios.</p>
+    Desafios
 </h1>
 <ul>
 <li><a href="https://kauelucena2k.github.io/html-css/desafios/d001/" target="_blank"> Desafio 001</a> - Desafio das Mensagens. </li>
