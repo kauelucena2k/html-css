@@ -18,10 +18,10 @@
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex010/" target="_blank"> Exercicio 010</a> - Links / Links Internos / Links para Download.</li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex011/" target="_blank"> Exercicio 011</a> - Imagens Dinâmicas / Elemento Picture / Elemento Áudio</li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex012/" target="_blank"> Exercicio 012</a> - Elemento Vídeo / Hospedagem Local / Hospedagem Externa </li>
-<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex013/" target="_blank"> Exercicio 013</a> - Estilo CSS inline / Estilo CSS Internos / Estilos CSS Externos.</li>
-<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex014/" target="_blank"> Exercicio 014</a> - </li>
-<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex015/" target="_blank"> Exercicio 015</a> - </li>
-<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex016/" target="_blank"> Exercicio 016</a> - </li>
+<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex013/" target="_blank"> Exercicio 013</a> - Estilo CSS inline. </li>
+<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex014/" target="_blank"> Exercicio 014</a> - Estilos CSS Internos / Estilos CSS Locais.</li>
+<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex015/" target="_blank"> Exercicio 015</a> - Estilos Css Externos. </li>
+<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex016/" target="_blank"> Exercicio 016</a> - Criando um site harmônico.</li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex017/" target="_blank"> Exercicio 017</a> - </li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex018/" target="_blank"> Exercicio 018</a> - </li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex019/" target="_blank"> Exercicio 019</a> - </li>
