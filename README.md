@@ -22,11 +22,11 @@
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex014/" target="_blank"> Exercicio 014</a> - Estilos CSS Internos / Estilos CSS Locais.</li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex015/" target="_blank"> Exercicio 015</a> - Estilos Css Externos. </li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex016/" target="_blank"> Exercicio 016</a> - Criando um site harmônico.</li>
-<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex017/" target="_blank"> Exercicio 017</a> - </li>
-<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex018/" target="_blank"> Exercicio 018</a> - </li>
-<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex019/" target="_blank"> Exercicio 019</a> - </li>
-<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex020/" target="_blank"> Exercicio 020</a> - </li>
-<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex021/" target="_blank"> Exercicio 021</a> - </li>
+<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex017/" target="_blank"> Exercicio 017</a> - Familias de fonte / Tamanhos de fonte / Peso, estilo e shorhand / Alinhamentos.</li>
+<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex018/" target="_blank"> Exercicio 018</a> - Google Fonts / Fontes Externas.</li>
+<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex019/" target="_blank"> Exercicio 019</a> - CSS id / CSS class.</li>
+<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex020/" target="_blank"> Exercicio 020</a> - CSS pseudo-class / CSS pseudo-element.</li>
+<li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex021/" target="_blank"> Exercicio 021</a> - Modelo de Caixas / Shorthands Úteis / Grouping Tags Semânticas / Sombra nas Caixas / Vértices Arredondados / Bordas com Imagens.</li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex022/index" target="_blank"> Exercicio 022</a> - </li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex023/index" target="_blank"> Exercicio 023</a> - </li>
 <li><a href="https://kauelucena2k.github.io/html-css/exercicios/ex024/index" target="_blank"> Exercicio 024</a> - </li>
